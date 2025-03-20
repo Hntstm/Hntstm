@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### 🛠️ Tech Stack
 - **Front-End**: HTML, CSS, JS
-<!--- **Back-End**: Node.js, Django, REST API -->
+- **Back-End**: Node.js
 - **Mobile**: React Native
 
 ### 📫 Contact Me
@@ -30,3 +30,5 @@ Here are some ideas to get you started:
 - Email: furyil0101@gmail.com
 
 > _Let's build something amazing together!_ 🚀
+
+<!---  -->
